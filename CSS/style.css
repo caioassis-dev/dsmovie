@@ -109,3 +109,10 @@ a:hover {
   font-weight: 700;
   border-radius: 4px;
 }
+
+/* ======= FORMULARIO =========*/
+
+.dsmovie-form-container {
+  padding: 40px 0;
+  max-width: 480px;
+}
